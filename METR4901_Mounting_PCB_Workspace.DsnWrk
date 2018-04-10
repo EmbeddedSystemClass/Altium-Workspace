@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=Mounting_PCB_Project\Mounting_PCB_Project.PrjPCB
+[Project2]
+ProjectPath=Sensor_Mount_Project\Sensor_Mount_Project.PrjPCB
+[Project3]
+ProjectPath=Lib\Thesis\TCRT5000L\Imported TCRT5000L.lia\TCRT5000L.LibPkg
