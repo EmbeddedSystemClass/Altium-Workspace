@@ -6,3 +6,5 @@ ProjectPath=Mounting_PCB_Project\Mounting_PCB_Project.PrjPCB
 ProjectPath=Lib\Thesis\SparkFun Load Sensor Combinator v11\Imported SparkFun Load Sensor Combinator v11.PrjPcb\SparkFun Load Sensor Combinator v11.PrjPcb
 [Project3]
 ProjectPath=Sensor_Mount_Project\Sensor_Mount_Project.PrjPCB
+[Project4]
+ProjectPath=..\METR4810\Submission\Electrical\PCB_Central_Controller\PCB_METR4810\PCB_METR4810.PrjPcb
