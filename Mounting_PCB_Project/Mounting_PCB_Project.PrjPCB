@@ -412,6 +412,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQBVMUYJ
 
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\Lib\*.*
 IncludeSubFolders=1
