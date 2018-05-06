@@ -413,7 +413,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MQBVMUYJ
 
 [Document23]
-DocumentPath=Project Outputs for Mounting_PCB_Project\CAMtastic1.Cam
+DocumentPath=..\Lib\Molex\22-27-2031-ecad-part-wizard-1-en\22-27-2031.epw
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -430,7 +430,58 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=Project Outputs for Mounting_PCB_Project\CAMtastic2.Cam
+DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\22-27-2031.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\22-27-2121.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\HDRV12W64P0X254_1X12_3048X580X1170P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\SHDR3W64P0X254_1X3_762X580X1170P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -448,90 +499,6 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Mounting_PCB_Project\Mounting_PCB_B.TXT
 DItemRevisionGUID=
 
 [SearchPath1]
