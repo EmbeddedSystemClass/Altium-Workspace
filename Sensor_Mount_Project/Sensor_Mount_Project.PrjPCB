@@ -158,40 +158,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=CAMtastic4.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=CAMtastic5.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
 DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\22-27-2031.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\22-27-2121.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\HDRV12W64P0X254_1X12_3048X580X1170P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=..\..\..\Users\Samuel\Downloads\Imported PADS Libraries.PrjPcb\SHDR3W64P0X254_1X3_762X580X1170P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,79 +225,117 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=Project Outputs for Sensor_Mount_Project\CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=Project Outputs for Sensor_Mount_Project\CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.DRR
+DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.EXTREP
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBL
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBO
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBP
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBS
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GKO
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GM1
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GM13
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GM15
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GPB
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GPT
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GTL
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GTO
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GTS
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.LDP
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.REP
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.RUL
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Sensor_Mount_Project\Sensor PCB.TXT
 DItemRevisionGUID=
 
