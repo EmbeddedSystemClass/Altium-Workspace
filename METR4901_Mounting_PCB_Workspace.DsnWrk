@@ -1,16 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Mounting_PCB_Project\Mounting_PCB_Project.PrjPCB
+ProjectPath=Mounting_PCB_Project_Post\Mounting_PCB_Project.PrjPCB
 [Project2]
-ProjectPath=Sensor_Mount_Project\Sensor_Mount_Project.PrjPCB
-[Project3]
-ProjectPath=Lib\Thesis\SparkFun Load Sensor Combinator v11\Imported SparkFun Load Sensor Combinator v11.PrjPcb\SparkFun Load Sensor Combinator v11.PrjPcb
-[Project4]
-ProjectPath=Lib\Lib Loader\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
-[Project5]
-ProjectPath=Lib\Lib Loader\Imported (1) PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
-[Project6]
-ProjectPath=Lib\Lib Loader\Res\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
-[Project7]
-ProjectPath=Lib\Lib Loader\TH\Imported PADS Libraries.PrjPcb\PADS Libraries.PrjPcb
+ProjectPath=Mounting_PCB_Project\Mounting_PCB_Project.PrjPCB
