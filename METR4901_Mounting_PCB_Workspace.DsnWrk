@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=Mounting_PCB_Project_Post\Mounting_PCB_Project.PrjPCB
 [Project2]
 ProjectPath=Mounting_PCB_Project\Mounting_PCB_Project.PrjPCB
+[Project3]
+ProjectPath=Sensor_Mount_Project\Sensor_Mount_Project.PrjPCB
