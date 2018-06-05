@@ -1,0 +1,52 @@
+Importer Log Report
+Project : NXP_60_26022015.PrjPcb
+
+Section : Analyze Document - D:\Github\Altium-Workspace\Lib\Thesis\NXP_60_26022015\NXP_60_26022015\NXP_60_26022015.lbr
+    Analyzing data of D:\Github\Altium-Workspace\Lib\Thesis\NXP_60_26022015\NXP_60_26022015\NXP_60_26022015.lbr
+    Load settings
+    Load layers 122
+    Load Library library
+    Load Library ""
+    Load Packages 287
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 303
+    Load DeviceSets 786
+EndSection
